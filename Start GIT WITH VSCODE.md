@@ -8,6 +8,7 @@ ref
 
 
 How to start Git with VSCode
+
 0. SETTING CONFIG USER NAME & EMAIL
 command 1 : git config --global user.name happyjy
 command 2 : git config --global user.email okwoyjy@gmail.com
