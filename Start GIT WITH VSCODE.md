@@ -14,7 +14,17 @@ command 1 : git config --global user.name happyjy
 command 2 : git config --global user.email okwoyjy@gmail.com
 1. create new repository in git
 2. clone the repository in local
-git clone REPOSITORY URL
+command : git clone[REPOSITORY URL]
 3. Commit
 4. Pull (다른 사람이 수정했을 때)
 5. Push
+
+
+#tip
+command key
+1. 파일 목록 
+ls -d */
+
+2. 파일간 이동
+cd [folder name]
+
